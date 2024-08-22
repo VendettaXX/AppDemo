@@ -105,3 +105,5 @@ tmp/
 # --------
 *.dll
 *.exe
+!qtcreator.rc
+!app_version.h
